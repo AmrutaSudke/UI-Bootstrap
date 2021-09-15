@@ -1,0 +1,63 @@
+ /* shop css */
+.jumbotron{
+   
+    
+    margin-top:10px ;
+    margin-bottom: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: black;
+}
+
+.card1{
+    margin-top: 30px;
+}
+
+
+
+
+
+ /* card css */
+.cardmain{
+    background-color: #CBEAFA;
+    margin-top: 20px;
+}
+
+.cardimg{
+    /* width: 200px; */
+    height: 300px;
+     margin-top:10px;
+     margin-bottom: 10px;
+     padding: 10px;
+    
+    border:5px solid #307E88 ;
+    border-radius: 30px;
+    
+}
+.cardimg h3{
+    text-align: center;
+}
+
+.card-img-top{
+    height: 150px;
+}
+ 
+/* .elementor-image-box-content{
+ align-items: center;
+    margin-left: 100px;
+
+}
+.elementor-image-box-img{
+    margin-top: 40px;
+
+} */
+
+
+/* form css */
+#form{
+    
+    margin-top: 20px;
+   padding: 10px;
+    
+    background-color: #80808057;
+}
